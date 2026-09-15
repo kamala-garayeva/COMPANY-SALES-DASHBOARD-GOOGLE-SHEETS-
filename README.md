@@ -2,7 +2,7 @@
 
 An end-to-end data analysis and visualization project built using **Google Sheets**. This project transforms raw e-commerce sales data into an interactive, monochrome-themed executive dashboard to track key business metrics, regional profitability, and customer behavior.
 
-https://github.com/kamala-garayeva/COMPANY-SALES-DASHBOARD-GOOGLE-SHEETS-/blob/main/COMPANY%20SALES%20DASHBOARD%20%20GOOGLE%20SHEETS.jpeg?raw=true
+![Company Sales Dashboard](https://raw.githubusercontent.com/kamala-garayeva/COMPANY-SALES-DASHBOARD-GOOGLE-SHEETS-/main/COMPANY%20SALES%20DASHBOARD%20%20GOOGLE%20SHEETS.jpeg)
 ---
 
 ## 🔗 Live Interactive Dashboard
